@@ -35,8 +35,8 @@ def generate_certificates():
 
 def send_email(name, image_path):
     
-    sender_email = "mrinteltv2020@gmail.com"
-    sender_password = "aseefda04"
+    sender_email = "Enter_your_Email"
+    sender_password = "Enter_your_password"
     recipient_email = "recipient_email@example.com"
     smtp_server = "smtp.gmail.com"
     smtp_port = 587
