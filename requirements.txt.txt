@@ -1,0 +1,4 @@
+opencv-python==4.5.1
+opencv-python-headless==4.5.1
+numpy==1.20.2
+smtplib==0.1.1
