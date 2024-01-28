@@ -17,4 +17,5 @@ The Automatic Certificate Generator simplifies the creation and distribution of 
    pip install -r requirements.txt
 **2. Run the Generator:**
 In command prompt, type
+```bash
 python run.py
